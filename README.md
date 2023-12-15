@@ -2,6 +2,7 @@
 This repository is for Cal DataScience homework and projects
 
 # For the Customer Coupon project:
+
 # Context and Goal
 The project is intended to exercise our data acquisition, cleaning, analysis and communication skill sets, especially visualization skills.
 The exercise is to answer the question, “Will a customer accept the coupon?” 
@@ -18,10 +19,10 @@ According to the assignment site:
 prompt.ipynb
 report.ipynb
 coupon.csv
-All of them are in the top level of this directory.
+All of them are in the top level of this github directory.
 
 # Where to Look For Project Results
-Look at report.ipynb
+Look at report.ipynb for an overview, but most of the analysis and code is in prompt.ipynb
 
 # Potential Issues
 To run the prompt.ipynb code, need to choose whether you will source data from github, google drive, or your local drive.
