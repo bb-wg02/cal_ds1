@@ -18,8 +18,9 @@ According to the assignment site:
 3 Main files:
 prompt.ipynb
 report.ipynb
-coupon.csv
-All of them are in the top level of this github directory.
+data/coupon.csv
+images/
+All of them are in the top level of this github directory, except items belonging in data and images subdirectory
 
 # Where to Look For Project Results
 Look at report.ipynb for an overview, but most of the analysis and code is in prompt.ipynb
