@@ -34,3 +34,4 @@ data/images
 
 # Copyright Questions
 I make no copyright claims on this work. Use as you wish but please respect the copyrights of the data set owner. This data comes to us from the UCI Machine Learning repository.
+![test](../images/accept_pct_type.png?raw=true)
